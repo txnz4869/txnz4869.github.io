@@ -43,32 +43,4 @@
     
   </entry>
   
-  <entry>
-    <title>3分钟，手摸手教你用OpenResty搭建高性能隧道代理（附完整配置！）</title>
-    <link href="https://txnz.github.io/posts/c2b7a51a.html"/>
-    <id>https://txnz.github.io/posts/c2b7a51a.html</id>
-    <published>2025-08-14T04:00:44.000Z</published>
-    <updated>2025-10-03T10:27:13.289Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;经常写爬虫的小伙伴们对代理 IP 应该不会很陌生了吧？&lt;/p&gt;
-&lt;p&gt;通常，我们为了让爬虫更加稳定，一般我们都会去购买一些代理 IP 用在我们的爬虫服务上。常规的做法，我们一般会去某个代理网站上面购买服务，然后我们会得到一个获取代理 IP</summary>
-        
-      
-    
-    
-    
-    <category term="科普" scheme="https://txnz.github.io/categories/%E7%A7%91%E6%99%AE/"/>
-    
-    
-    <category term="OpenResty" scheme="https://txnz.github.io/tags/OpenResty/"/>
-    
-    <category term="Nginx" scheme="https://txnz.github.io/tags/Nginx/"/>
-    
-  </entry>
-  
 </feed>

@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://txnz.github.io/posts/c2b7a51a.html</loc>
-    
-    <lastmod>2025-10-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://txnz.github.io/tags/index.html</loc>
     
     <lastmod>2025-10-03</lastmod>
@@ -37,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://txnz.github.io/about/index.html</loc>
+    <loc>https://txnz.github.io/categories/index.html</loc>
     
     <lastmod>2025-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://txnz.github.io/categories/index.html</loc>
+    <loc>https://txnz.github.io/about/index.html</loc>
     
     <lastmod>2025-10-03</lastmod>
     
@@ -87,31 +80,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://txnz.github.io/tags/OpenResty/</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://txnz.github.io/tags/Nginx/</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://txnz.github.io/categories/%E6%97%A5%E8%AF%AD/</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://txnz.github.io/categories/%E7%A7%91%E6%99%AE/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
